@@ -1,5 +1,5 @@
 const LSPAge = parseInt((new Date().getTime() - new Date("2022-7-25").getTime()) / 86400000);
-const version = "1.0.1 build-22072701";
+const version = "1.0.2 build-22080101";
 const consoleColor = "color: #70C000; ";
 const consoleLineHeight = "line-height: 20px; ";
 const consoleFontFamily = "font-family: 'Microsoft Yahei',PingFangSC-Regular,Helvetica,sans-serif,'等线'; "
